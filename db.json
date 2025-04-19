@@ -1,9 +1,15 @@
 {
   "products": [
     {
-      "id": "61d4",
+      "id": "1",
       "name": "Flavio Santos",
       "price": 100
+    },
+    {
+      "id": "2",
+      "name": "Luciana Santos",
+      "price": 100
     }
+
   ]
 }
